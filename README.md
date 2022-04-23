@@ -2,14 +2,13 @@
 
 <!--
 **KidPudel/KidPudel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on my projects for portfolio ;)
 - 🌱 I’m currently learning backend development with APIs
 - 👯 I’m looking to collaborate on Discord - KidPudel#7801
 - 📫 How to reach me: [Instagram - @kidpudel](https://www.instagram.com/kidpudel/), [Telegram - @kidpudel](https://t.me/kidpudel) , Discord - KidPudel#7801
--->
+
 
 **Languages and Tools:**  
 
