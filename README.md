@@ -19,10 +19,10 @@
 <a href="https://github.com/kidpudel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidpudel&theme=dark&hide_langs_below=1" />
 </a>
-### Have a great day ✨✨
+
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Have a great day ✨✨
 
 </div>
 
