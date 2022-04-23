@@ -21,10 +21,5 @@
 </a>
 
 <div align="center">
-
-### ...
-  ###..
-  ###.
-  ### and have a great day ✨✨
-  
+### Have a great day ✨✨
 </div>
