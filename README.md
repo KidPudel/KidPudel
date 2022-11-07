@@ -20,7 +20,6 @@
 <a href="https://github.com/kidpudel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidpudel&theme=dark&hide_langs_below=1" />
 </a>
-
 <div align="center">
 
 ### Have a great day ✨✨
