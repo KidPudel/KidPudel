@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on my projects for portfolio ;)
-- 🌱 I’m currently learning android development 🤖
+- 🌱 I’m learning everything about CS 🌌
 - 👯 I’m looking to collaborate on Discord - KidPudel#7801
 - 📫 How to reach me: [Instagram - @kidpudel](https://www.instagram.com/kidpudel/), [Telegram - @kidpudel](https://t.me/kidpudel) , Discord - KidPudel#7801
 
