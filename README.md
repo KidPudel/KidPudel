@@ -24,9 +24,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
 
 <a href="https://github.com/kidpudel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidpudel&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidpudel&theme=dark&layout=compact" />
 </a>
-<div align="center">
 
 
 ### Have a great day ✨✨
