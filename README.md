@@ -1,4 +1,4 @@
-### Hi there my name is Iggy 👋
+## Hi there my name is Iggy 👋
 
 <!--
 **KidPudel/KidPudel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,8 +27,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidpudel&theme=dark&layout=compact" />
 </a>
 
-
-### Have a great day ✨✨
-
-</div>
+<h1 align='center'>
+  Have a great day ✨✨
+</h1>
 
