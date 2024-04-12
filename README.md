@@ -6,7 +6,7 @@
 
 - 🔭 I’m working on my projects personal projects for learning and fun ;) 🌌
 - 👯 I’m looking to collaborate on Discord - KidPudel#7801
-- 📫 How to reach me: [Instagram - @kidpudel](https://www.instagram.com/kidpudel/), [Telegram - @kidpudel](https://t.me/kidpudel) , Discord - KidPudel#7801
+- 📫 How to reach me: [Telegram - @kidpudel](https://t.me/kidpudel) , Discord - KidPudel#7801
 
 
 **Languages and Tools:**  
