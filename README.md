@@ -4,9 +4,9 @@
 **KidPudel/KidPudel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m working on my projects personal projects for learning and fun ;) 🌌
+- 🔭 I’m a backend developer ;) 🌌
 - 👯 I’m looking to collaborate on Discord - KidPudel#7801
-- 📫 How to reach me: [Telegram - @kidpudel](https://t.me/kidpudel) , Discord - KidPudel#7801
+- 📫 How to reach me: [Telegram - @iggy_sleepy](https://t.me/iggy_sleepy) , Discord - KidPudel#7801
 
 
 **Languages and Tools:**  
