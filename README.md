@@ -1,11 +1,7 @@
 ## Hi there my name is Iggy 👋
 
-<!--
-**KidPudel/KidPudel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-- 🔭 I’m a backend developer (at work) 🌌
-- ✨ Learning Zig
+- 🔭 Learning Zig
+- 👨‍💻 I’m a backend developer (at work)
 - 📫 How to reach me: [Telegram - @iggy_sleepy](https://t.me/iggy_sleepy) , Discord - KidPudel#7801
 
 
